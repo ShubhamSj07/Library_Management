@@ -1,56 +1,77 @@
-import React ,{useState}from 'react';
-import Catalog from './Catalog'
-import App from './App';
+import React from "react";
 
+const Categories = ({ filterItems }) => {
+  const buttons = {
+    backgroundColor: "#00000000",
+    border: "none",
+    width: "9.5vw",
+    height: "5.5vh",
+  };
 
-const Catrow = () => {
+  function hover(e) {
+    e.target.style.background = "#777777";
+  }
 
-    // const [cat, set] = useState('popular books');
+  function normal(e) {
+    e.target.style.background = "#00000000";
+  }
 
-    const buttons={
-        backgroundColor: '#00000000',
-        border:'none',
-        width:'9.5vw',
-        height:'5.5vh',
-    }
+  const header = {
+    height: "5.5vh",
+    backgroundColor: "#9E9E9E",
+    width: "100vw",
+    display: "flex",
+  };
 
-    function hover(e) {
-        e.target.style.background = '#777777';
-    }
+  return (
+    <div style={header} className="d-sm-block">
+      <div class="container">
+        <button
+          className="cat"
+          style={buttons}
+          value="adventure"
+          onMouseEnter={hover}
+          onMouseLeave={normal}
+          onClick={() => filterItems("adventure")}
+        >
+          ADVENTURE
+        </button>
+        <button
+          className="cat"
+          style={buttons}
+          value="mystery"
+          onMouseEnter={hover}
+          onMouseLeave={normal}
+          onClick={() => filterItems("mystery")}
+        >
+          MYSTERY
+        </button>
 
-    function normal(e) {
-        e.target.style.background = '#00000000';
-    }
+        <button
+          className="cat"
+          style={buttons}
+          value="fiction"
+          onMouseEnter={hover}
+          onMouseLeave={normal}
+          onClick={() => filterItems("fiction")}
+        >
+          FICTION
+        </button>
 
-    function click(e){
-        val = e.target.value;
-        document.getElementById("category").innerHTML = val.toUpperCase();
-        console.log("val : "+val);
-        // setCount(val);
-        //console.log("CAT "+cat)
-    }
-
-    return(<div class='container'>
-        <button class='cat' style={buttons} value='adventure' onMouseEnter={hover} onMouseLeave={normal} onClick={click}>ADVENTURE</button>
-        <button class='cat' style={buttons} value='mystery' onMouseEnter={hover} onMouseLeave={normal} onClick={click}>MYSTERY</button>
-        <button class='cat' style={buttons} value='classics' onMouseEnter={hover} onMouseLeave={normal} onClick={click}>CLASSICS</button>
-        <button class='cat' style={buttons} value='fiction' onMouseEnter={hover} onMouseLeave={normal} onClick={click}>FICTION</button>
-        <button class='cat' style={buttons} value='thriller' onMouseEnter={hover} onMouseLeave={normal} onClick={click}>THRILLER</button>
-        <button class='cat' style={buttons} value='fantasy' onMouseEnter={hover} onMouseLeave={normal} onClick={click}>FANTASY</button>
-        <button class='cat' style={buttons} value='autobiography' onMouseEnter={hover} onMouseLeave={normal} onClick={click}>AUTOBIOGRAPHY</button>
-        </div>)
-}
-const Categories = () => {
-
-    const header={
-        height:'5.5vh',
-        backgroundColor:'#9E9E9E',
-        width: '100vw',
-        display: 'flex'
-    }
-
-    return(<div style = {header} className='d-sm-block'><Catrow/></div>)
-}
+        <button
+          className="cat"
+          style={buttons}
+          value="autobiography"
+          onMouseEnter={hover}
+          onMouseLeave={normal}
+          onClick={() => filterItems("autobiography")}
+        >
+          AUTOBIOGRAPHY
+        </button>
+      </div>
+    </div>
+  );
+};
 
 export default Categories;
 export var val;
