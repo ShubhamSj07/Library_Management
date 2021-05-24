@@ -1,0 +1,233 @@
+[
+    {
+      "id": 0,
+      "title": "The Da Vinci Code",
+      "author": "Dan Brown",
+      "rating": 3.9,
+      "description": "While in Paris, Harvard symbologist Robert Langdon is awakened by a phone call in the dead of the night. The elderly curator of the Louvre has been murdered inside the museum, his body covered in baffling symbols. As Langdon and gifted French cryptologist Sophie Neveu sort through the bizarre riddles, they are stunned to discover a trail of clues hidden in the works of Leonardo da Vinci—clues visible for all to see and yet ingeniously disguised by the painter.\n\nEven more startling, the late curator was involved in the Priory of Sion—a secret society whose members included Sir Isaac Newton, Victor Hugo, and Da Vinci—and he guarded a breathtaking historical secret. Unless Langdon and Neveu can decipher the labyrinthine puzzle—while avoiding the faceless adversary who shadows their every move—the explosive, ancient truth will be lost forever.",
+      "genre": "Mystery, Detective fiction, Conspiracy fiction, Thriller",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61voOxiNf9L.jpg",
+      "category": "mystery",
+      "copies": 5
+    },
+    {
+      "id": 1,
+      "title": 1984,
+      "author": "George Orwell",
+      "rating": 4.2,
+      "description": "Among the seminal texts of the 20th century, Nineteen Eighty-Four is a rare work that grows more haunting as its futuristic purgatory becomes more real. Published in 1949, the book offers political satirist George Orwell's nightmarish vision of a totalitarian, bureaucratic world and one poor stiff's attempt to find individuality. The brilliance of the novel is Orwell's prescience of modern life—the ubiquity of television, the distortion of the language—and his ability to construct such a thorough version of hell. Required reading for students since it was published, it ranks among the most terrifying novels ever written.",
+      "genre": "Dystopian, Political fiction, Social science fiction",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/514CVwOrybL._SX333_BO1,204,203,200_.jpg",
+      "category": "fiction",
+      "copies": 5
+    },
+    {
+      "id": 2,
+      "title": "The Hitchhiker's Guide to the Galaxy",
+      "author": "Douglas Adams",
+      "rating": 4.2,
+      "description": "Seconds before the Earth is demolished to make way for a galactic freeway, Arthur Dent is plucked off the planet by his friend Ford Prefect, a researcher for the revised edition of The Hitchhiker's Guide to the Galaxy who, for the last fifteen years, has been posing as an out-of-work actor.\n\nTogether this dynamic pair begin a journey through space aided by quotes from The Hitchhiker's Guide (\"A towel is about the most massively useful thing an interstellar hitchhiker can have\") and a galaxy-full of fellow travelers: Zaphod Beeblebrox—the two-headed, three-armed ex-hippie and totally out-to-lunch president of the galaxy; Trillian, Zaphod's girlfriend (formally Tricia McMillan), whom Arthur tried to pick up at a cocktail party once upon a time zone; Marvin, a paranoid, brilliant, and chronically depressed robot; Veet Voojagig, a former graduate student who is obsessed with the disappearance of all the ballpoint pens he bought over the years.",
+      "genre": "Comic science fiction",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/91TpAAdiBLL.jpg",
+      "category": "fiction",
+      "copies": 5
+    },
+    {
+      "id": 3,
+      "title": "Treasure Island",
+      "author": "Robert Louis Stevenson",
+      "rating": 3.8,
+      "description": "For sheer storytelling delight and pure adventure, Treasure Island has never been surpassed. From the moment young Jim Hawkins first encounters the sinister Blind Pew at the Admiral Benbow Inn until the climactic battle for treasure on a tropic isle, the novel creates scenes and characters that have fired the imaginations of generations of readers. Written by a superb prose stylist, a master of both action and atmosphere, the story centers upon the conflict between good and evil - but in this case a particularly engaging form of evil. It is the villainy of that most ambiguous rogue Long John Silver that sets the tempo of this tale of treachery, greed, and daring. Designed to forever kindle a dream of high romance and distant horizons, Treasure Island is, in the words of G. K. Chesterton, 'the realization of an ideal, that which is promised in its provocative and beckoning map; a vision not only of white skeletons but also green palm trees and sapphire seas.' G. S. Fraser terms it 'an utterly original book' and goes on to write: 'There will always be a place for stories like Treasure Island that can keep boys and old men happy.'",
+      "genre": "Adventure fiction, Young adult literature",
+      "image": "https://images.penguinrandomhouse.com/cover/9781101990322",
+      "category": "adventure",
+      "copies": 5
+    },
+    {
+      "id": 4,
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "author": "J. K. Rowling",
+      "rating": 4.5,
+      "description": "Harry Potter's life is miserable. His parents are dead and he's stuck with his heartless relatives, who force him to live in a tiny closet under the stairs. But his fortune changes when he receives a letter that tells him the truth about himself: he's a wizard. A mysterious visitor rescues him from his relatives and takes him to his new home, Hogwarts School of Witchcraft and Wizardry.\n\nAfter a lifetime of bottling up his magical powers, Harry finally feels like a normal kid. But even within the Wizarding community, he is special. He is the boy who lived: the only person to have ever survived a killing curse inflicted by the evil Lord Voldemort, who launched a brutal takeover of the Wizarding world, only to vanish after failing to kill Harry.\n\nThough Harry's first year at Hogwarts is the best of his life, not everything is perfect. There is a dangerous secret object hidden within the castle walls, and Harry believes it's his responsibility to prevent it from falling into evil hands. But doing so will bring him into contact with forces more terrifying than he ever could have imagined.\n\nFull of sympathetic characters, wildly imaginative situations, and countless exciting details, the first installment in the series assembles an unforgettable magical world and sets the stage for many high-stakes adventures to come.",
+      "genre": "Fantasy",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81YOuOGFCJL.jpg",
+      "category": "adventure",
+      "copies": 5
+    },
+    {
+      "id": 5,
+      "title": "Harry Potter and the Chamber of Secrets",
+      "author": "J. K. Rowling",
+      "rating": 4.4,
+      "description": "Ever since Harry Potter had come home for the summer, the Dursleys had been so mean and hideous that all Harry wanted was to get back to the Hogwarts School for Witchcraft and Wizardry. But just as he’s packing his bags, Harry receives a warning from a strange impish creature who says that if Harry returns to Hogwarts, disaster will strike.\n\nAnd strike it does. For in Harry’s second year at Hogwarts, fresh torments and horrors arise, including an outrageously stuck-up new professor and a spirit who haunts the girls’ bathroom. But then the real trouble begins – someone is turning Hogwarts students to stone. Could it be Draco Malfoy, a more poisonous rival than ever? Could it possible be Hagrid, whose mysterious past is finally told? Or could it be the one everyone at Hogwarts most suspects… Harry Potter himself!",
+      "genre": "Fantasy",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/91HHqVTAJQL.jpg",
+      "category": "adventure",
+      "copies": 5
+    },
+    {
+      "id": 6,
+      "title": "Harry Potter and the Prisoner of Azkaban",
+      "author": "J. K. Rowling",
+      "rating": 4.6,
+      "description": "For twelve long years, the dread fortress of Azkaban held an infamous prisoner named Sirius Black. Convicted of killing thirteen people with a single curse, he was said to be the heir apparent to the Dark Lord, Voldemort.\n\nNow he has escaped, leaving only two clues as to where he might be headed: Harry Potter's defeat of You-Know-Who was Black's downfall as well. And the Azkaban guards heard Black muttering in his sleep, \"He's at Hogwarts . . . he's at Hogwarts.\"\n\nHarry Potter isn't safe, not even within the walls of his magical school, surrounded by his friends. Because on top of it all, there may well be a traitor in their midst.",
+      "genre": "Fantasy",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/91uix57X+jL.jpg",
+      "category": "adventure",
+      "copies": 5
+    },
+    {
+      "id": 7,
+      "title": "Harry Potter and the Goblet of Fire",
+      "author": "J. K. Rowling",
+      "rating": 4.5,
+      "description": "Harry Potter is midway through his training as a wizard and his coming of age. Harry wants to get away from the pernicious Dursleys and go to the International Quidditch Cup with Hermione, Ron, and the Weasleys. He wants to dream about Cho Chang, his crush (and maybe do more than dream). He wants to find out about the mysterious event that's supposed to take place at Hogwarts this year, an event involving two other rival schools of magic, and a competition that hasn't happened for hundreds of years. He wants to be a normal, fourteen-year-old wizard. But unfortunately for Harry Potter, he's not normal - even by wizarding standards.\n\nAnd in his case, different can be deadly.",
+      "genre": "Fantasy",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81t2CVWEsUL.jpg",
+      "category": "adventure",
+      "copies": 5
+    },
+    {
+      "id": 8,
+      "title": "Harry Potter and the Order of the Phoenix",
+      "author": "J. K. Rowling",
+      "rating": 4.5,
+      "description": "There is a door at the end of a silent corridor. And it’s haunting Harry Pottter’s dreams. Why else would he be waking in the middle of the night, screaming in terror?\n\nHarry has a lot on his mind for this, his fifth year at Hogwarts: a Defense Against the Dark Arts teacher with a personality like poisoned honey; a big surprise on the Gryffindor Quidditch team; and the looming terror of the Ordinary Wizarding Level exams. But all these things pale next to the growing threat of He-Who-Must-Not-Be-Named - a threat that neither the magical government nor the authorities at Hogwarts can stop.\n\nAs the grasp of darkness tightens, Harry must discover the true depth and strength of his friends, the importance of boundless loyalty, and the shocking price of unbearable sacrifice.\n\nHis fate depends on them all.",
+      "genre": "Fantasy",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81yheYBjiuL.jpg",
+      "category": "adventure",
+      "copies": 5
+    },
+     {
+       "id": 9,
+       "title": "Harry Potter and the Half-Blood Prince",
+       "author": "J. K. Rowling",
+       "rating": 4.6,
+       "description": "The war against Voldemort is not going well; even Muggle governments are noticing. Ron scans the obituary pages of the Daily Prophet, looking for familiar names. Dumbledore is absent from Hogwarts for long stretches of time, and the Order of the Phoenix has already suffered losses.\n\nAnd yet . . .\n\nAs in all wars, life goes on. The Weasley twins expand their business. Sixth-year students learn to Apparate - and lose a few eyebrows in the process. Teenagers flirt and fight and fall in love. Classes are never straightforward, through Harry receives some extraordinary help from the mysterious Half-Blood Prince.\n\nSo it's the home front that takes center stage in the multilayered sixth installment of the story of Harry Potter. Here at Hogwarts, Harry will search for the full and complete story of the boy who became Lord Voldemort - and thereby find what may be his only vulnerability.",
+       "genre": "Fantasy",
+       "image": "https://images-na.ssl-images-amazon.com/images/I/91YH0ZtB9XL.jpg",
+       "category": "adventure",
+       "copies": 5
+     },
+     {
+       "id": 10,
+       "title": "Harry Potter and the Deathly Hallows",
+       "author": "J. K. Rowling",
+       "rating": 4.6,
+       "description": "Harry Potter is leaving Privet Drive for the last time. But as he climbs into the sidecar of Hagrid’s motorbike and they take to the skies, he knows Lord Voldemort and the Death Eaters will not be far behind.\n\nThe protective charm that has kept him safe until now is broken. But the Dark Lord is breathing fear into everything he loves. And he knows he can’t keep hiding.\n\nTo stop Voldemort, Harry knows he must find the remaining Horcruxes and destroy them.\n\nHe will have to face his enemy in one final battle.",
+       "genre": "Fantasy",
+       "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432278568l/22844208._SY475_.jpg",
+       "category": "adventure",
+       "copies": 5
+     },
+     {
+       "id": 11,
+       "title": "The Fault in Our Stars",
+       "author": "John Green",
+       "rating": 4.1,
+       "description": "Despite the tumor-shrinking medical miracle that has bought her a few years, Hazel has never been anything but terminal, her final chapter inscribed upon diagnosis. But when a gorgeous plot twist named Augustus Waters suddenly appears at Cancer Kid Support Group, Hazel's story is about to be completely rewritten.\n\nInsightful, bold, irreverent, and raw, The Fault in Our Stars is award-winning author John Green's most ambitious and heartbreaking work yet, brilliantly exploring the funny, thrilling, and tragic business of being alive and in love.",
+       "genre": "Fiction",
+       "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360206420l/11870085.jpg",
+       "category": "fiction",
+       "copies": 5
+     },
+     {
+       "id": 12,
+       "title": "To Kill a Mockingbird",
+       "author": "Harper Lee",
+       "rating": 4.3,
+       "description": "The unforgettable novel of a childhood in a sleepy Southern town and the crisis of conscience that rocked it. \"To Kill A Mockingbird\" became both an instant bestseller and a critical success when it was first published in 1960. It went on to win the Pulitzer Prize in 1961 and was later made into an Academy Award-winning film, also a classic.\n\nCompassionate, dramatic, and deeply moving, \"To Kill A Mockingbird\" takes readers to the roots of human behavior - to innocence and experience, kindness and cruelty, love and hatred, humor and pathos. Now with over 18 million copies in print and translated into forty languages, this regional story by a young Alabama woman claims universal appeal. Harper Lee always considered her book to be a simple love story. Today it is regarded as a masterpiece of American literature.",
+       "genre": "Fiction",
+       "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327156320l/8045416.jpg",
+       "category": "fiction",
+       "copies": 5
+     },
+     {
+       "id": 13,
+       "title": "The Diary of a Young Girl",
+       "author": "Anne Frank",
+       "rating": 4.1,
+       "description": "Discovered in the attic in which she spent the last years of her life, Anne Frank’s remarkable diary has become a world classic—a powerful reminder of the horrors of war and an eloquent testament to the human spirit.\n\nIn 1942, with the Nazis occupying Holland, a thirteen-year-old Jewish girl and her family fled their home in Amsterdam and went into hiding. For the next two years, until their whereabouts were betrayed to the Gestapo, the Franks and another family lived cloistered in the “Secret Annexe” of an old office building. Cut off from the outside world, they faced hunger, boredom, the constant cruelties of living in confined quarters, and the ever-present threat of discovery and death. In her diary Anne Frank recorded vivid impressions of her experiences during this period. By turns thoughtful, moving, and surprisingly humorous, her account offers a fascinating commentary on human courage and frailty and a compelling self-portrait of a sensitive and spirited young woman whose promise was tragically cut short.",
+       "genre": "Autobiography",
+       "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327964019l/828513.jpg",
+       "category": "autobiography",
+       "copies": 5
+     },
+     {
+       "id": 14,
+       "title": "I Am Malala",
+       "author": "Malala Yousafzai",
+       "rating": 4.1,
+       "description": "I come from a country that was created at midnight. When I almost died it was just after midday.\n\nWhen the Taliban took control of the Swat Valley in Pakistan, one girl spoke out. Malala Yousafzai refused to be silenced and fought for her right to an education.\n\nOn Tuesday, October 9, 2012, when she was fifteen, she almost paid the ultimate price. She was shot in the head at point-blank range while riding the bus home from school, and few expected her to survive.\n\nInstead, Malala's miraculous recovery has taken her on an extraordinary journey from a remote valley in northern Pakistan to the halls of the United Nations in New York. At sixteen, she has become a global symbol of peaceful protest and the youngest-ever Nobel Peace Prize laureate.\n\nI Am Malala is the remarkable tale of a family uprooted by global terrorism, of the fight for girls' education, of a father who, himself a school owner, championed and encouraged his daughter to write and attend school, and of brave parents who have a fierce love for their daughter in a society that prizes sons.",
+       "genre": "Autobiography",
+       "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375414895l/17851885.jpg",
+       "category": "autobiography",
+       "copies": 5
+     },
+     {
+       "id": 15,
+       "title": "Becoming",
+       "author": "Michelle Obama",
+       "rating": 4.5,
+       "description": "In a life filled with meaning and accomplishment, Michelle Obama has emerged as one of the most iconic and compelling women of our era. As First Lady of the United States of America—the first African American to serve in that role—she helped create the most welcoming and inclusive White House in history, while also establishing herself as a powerful advocate for women and girls in the U.S. and around the world, dramatically changing the ways that families pursue healthier and more active lives, and standing with her husband as he led America through some of its most harrowing moments. Along the way, she showed us a few dance moves, crushed Carpool Karaoke, and raised two down-to-earth daughters under an unforgiving media glare.\n\nIn her memoir, a work of deep reflection and mesmerizing storytelling, Michelle Obama invites readers into her world, chronicling the experiences that have shaped her—from her childhood on the South Side of Chicago to her years as an executive balancing the demands of motherhood and work, to her time spent at the world’s most famous address. With unerring honesty and lively wit, she describes her triumphs and her disappointments, both public and private, telling her full story as she has lived it—in her own words and on her own terms. Warm, wise, and revelatory, Becoming is the deeply personal reckoning of a woman of soul and substance who has steadily defied expectations—and whose story inspires us to do the same.",
+       "genre": "Autobiography",
+       "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1528206996l/38746485.jpg",
+       "category": "autobiography",
+       "copies": 5
+     },
+     {
+       "id": 16,
+       "title": "Murder on the Orient Express",
+       "author": "Agatha Christie",
+       "rating": 4.1,
+       "description": "Just after midnight, a snowdrift stops the Orient Express in its tracks. The luxurious train is surprisingly full for the time of the year, but by the morning it is one passenger fewer. An American tycoon lies dead in his compartment, stabbed a dozen times, his door locked from the inside.\n\nIsolated and with a killer in their midst, detective Hercule Poirot must identify the murderer—in case he or she decides to strike again.",
+       "genre": "Crime, Mystery, Thriller",
+       "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486131451l/853510._SY475_.jpg",
+       "category": "mystery",
+       "copies": 5
+     },
+     {
+       "id": 17,
+       "title": "Angels & Demons",
+       "author": "Dan Brown",
+       "rating": 3.9,
+       "description": "World-renowned Harvard symbologist Robert Langdon is summoned to a Swiss research facility to analyze a cryptic symbol seared into the chest of a murdered physicist. What he discovers is unimaginable: a deadly vendetta against the Catholic Church by a centuries-old underground organization -- the Illuminati. In a desperate race to save the Vatican from a powerful time bomb, Langdon joins forces in Rome with the beautiful and mysterious scientist Vittoria Vetra. Together they embark on a frantic hunt through sealed crypts, dangerous catacombs, and deserted cathedrals, and into the depths of the most secretive vault on earth...the long-forgotten Illuminati lair.",
+       "genre": "Crime, Suspense, Mystery, Thriller",
+       "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1558711679l/960.jpg",
+       "category": "mystery",
+       "copies": 5
+     },
+     {
+       "id": 18,
+       "title": "And Then There Were None",
+       "author": "Agatha Christie",
+       "rating": 4.3,
+       "description": "First, there were ten—a curious assortment of strangers summoned as weekend guests to a little private island off the coast of Devon. Their host, an eccentric millionaire unknown to all of them, is nowhere to be found. All that the guests have in common is a wicked past they're unwilling to reveal—and a secret that will seal their fate. For each has been marked for murder. A famous nursery rhyme is framed and hung in every room of the mansion:\n\n\"Ten little boys went out to dine; One choked his little self and then there were nine. Nine little boys sat up very late; One overslept himself and then there were eight. Eight little boys traveling in Devon; One said he'd stay there then there were seven. Seven little boys chopping up sticks; One chopped himself in half and then there were six. Six little boys playing with a hive; A bumblebee stung one and then there were five. Five little boys going in for law; One got in Chancery and then there were four. Four little boys going out to sea; A red herring swallowed one and then there were three. Three little boys walking in the zoo; A big bear hugged one and then there were two. Two little boys sitting in the sun; One got frizzled up and then there was one. One little boy left all alone; He went out and hanged himself and then there were none.\"\n\nWhen they realize that murders are occurring as described in the rhyme, terror mounts. One by one they fall prey. Before the weekend is out, there will be none. Who has choreographed this dastardly scheme? And who will be left to tell the tale? Only the dead are above suspicion.",
+       "genre": "Mystery, Crime, Psychological thriller, Horror",
+       "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391120695l/16299.jpg",
+       "category": "mystery",
+       "copies": 5
+     },
+     {
+       "id": 19,
+       "title": "Wings of Fire: An Autobiography",
+       "author": "A.P.J. Abdul Kalam",
+       "rating": 4.2,
+       "description": "Avul Pakir Jainulabdeen Abdul Kalam, the son of a little-educated boat-owner in Rameswaram, Tamil Nadu, had an unparalleled career as a defence scientist, culminating in the highest civilian award of India, the Bharat Ratna. As chief of the country's defence research and development programme, Kalam demonstrated the great potential for dynamism and innovation that existed in seemingly moribund research establishments. This is the story of Kalam's rise from obscurity and his personal and professional struggles, as well as the story of Agni, Prithvi, Akash, Trishul and Nag-missiles that have become household names in India and that have raised the nation to the level of a missile power of international reckoning. This is also the saga of independent India's struggle for technological self-sufficiency and defensive autonomy-a story as much about politics, domestic and international, as it is about science.",
+       "genre": "Autobiography",
+       "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1588286863l/634583._SY475_.jpg",
+       "category": "autobiography",
+       "copies": 5
+     },
+     {
+       "id": 20,
+       "title": "The Alchemist",
+       "author": "Paulo Coelho",
+       "rating": 3.9,
+       "description": "Paulo Coelho's enchanting novel has inspired a devoted following around the world. This story, dazzling in its powerful simplicity and soul-stirring wisdom, is about an Andalusian shepherd boy named Santiago who travels from his homeland in Spain to the Egyptian desert in search of a treasure buried near the Pyramids. Along the way he meets a Gypsy woman, a man who calls himself king, and an alchemist, all of whom point Santiago in the direction of his quest. No one knows what the treasure is, or if Santiago will be able to surmount the obstacles in his path. But what starts out as a journey to find worldly goods turns into a discovery of the treasure found within. Lush, evocative, and deeply humane, the story of Santiago is an eternal testament to the transforming power of our dreams and the importance of listening to our hearts.",
+       "genre": "Fiction",
+       "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1466865542l/18144590._SY475_.jpg",
+       "category": "fiction",
+       "copies": 5
+     }
+  ] 
